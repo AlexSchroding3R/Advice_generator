@@ -1,0 +1,1 @@
+const so = document.getElementsByClassName("content");
